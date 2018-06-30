@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     ListView listView;
     LinearLayout refreshList;
-    TextView temp, bpm, bm, l;
+    TextView temp, bpm, bm;
     FloatingActionButton floatingActionButton;
     EditText editText;
 
